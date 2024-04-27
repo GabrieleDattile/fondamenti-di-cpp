@@ -7,7 +7,7 @@
 - **Resto (%)**: Restituisce il resto della divisione del primo valore per il secondo.
 
   ## ESEMPI
-  '''cpp
+  ```cpp
   int a = 10;
   int b = 5;
   int somma = a + b;           // somma sarà 15
